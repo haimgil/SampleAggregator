@@ -1,4 +1,4 @@
 # SampleAggregator
 Service which aggregate samples into sessions
 
-![alt text](https://github.com/haimgil/SampleAggregator/blob/5536b45cf3e4d761a7a4d59d8af07e01a8a94587/Flow%20chart.png)
+![alt text](https://github.com/haimgil/SampleAggregator/blob/e0dd8e9812c0b511c0ba77ea012a4841baf76475/Flow%20chart.png)
